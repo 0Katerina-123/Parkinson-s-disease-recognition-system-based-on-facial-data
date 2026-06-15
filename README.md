@@ -1,5 +1,6 @@
 # Parkinson-s-disease-recognition-system-based-on-facial-data
 Parkinson's disease recognition system based on facial data
+
 **Краткое описание проекта**
 
 **1. Обработка видео и извлечение признаков**
